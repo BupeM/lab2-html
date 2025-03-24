@@ -1,0 +1,1 @@
+This lab helped create a structured HTML5 webpage, implement HTML5 forms with built-in validation and Validate HTML code using W3C Validator, which helped find and fix errors in the code. 
